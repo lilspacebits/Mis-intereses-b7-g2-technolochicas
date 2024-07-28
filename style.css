@@ -1,0 +1,43 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/266/265/small/cute-cloud-and-moon-on-grid-background-cartoon-doodle-seamless-pattern-free-vector.jpg);
+    padding: 5% 10%;
+    
+}
+
+header {
+    font-size: 35 px; 
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    width: 80%;
+    margin: auto;
+    
+}
+
+#sebas {
+    height: 300px;
+    position: left;
+    margin-left: 17%;
+    ;
+}
+
+#columna{
+    display: inline-block;
+
+}
+
+div{
+    background-color: #ffff;
+    border-radius: 20px;
+    padding: 3% 10%;
+
+}
+
+button{
+    background-color: #E5D4C0;
+    border-color: #FAC9B8;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
